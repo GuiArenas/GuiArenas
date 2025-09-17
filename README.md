@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do GuiArenas 😁
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArenas&stats_format=bytes)
+
 <div>
   <a href="https://github.com/GuiArenas">
     <img height="180em" src="https://streak-stats.demolab.com?user=GuiArenas&theme=dracula&hide_border=false"/>
